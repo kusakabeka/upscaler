@@ -1,0 +1,4 @@
+mini_vm/__pycache__/
+mini_vm/tests/__pycache__/
+__pycache__/
+*.pyc
